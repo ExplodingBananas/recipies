@@ -1,9 +1,9 @@
  h1{
   text-align: center; 
-    background-color:Gold;  
+    background-color:GoldenRod;  
     font-family:Brush Script MT;  
     font-size:750%;  
-    text-shadow:7px 7px 0 GoldenRod;
+    text-shadow:7px 7px 0 DarkGoldenRod;
    }
 button{
  font-size:150%;
